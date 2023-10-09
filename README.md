@@ -6,7 +6,7 @@ Additionally you have to install some packages with pip:
 pip install beautifulsoup4 requests configparser
 ```
 
-[!WARNING]
-This script saves your username and password in raw-format into a file named studidb-login.conf!
+> [!WARNING]
+> This script saves your username and password in raw-format into a file named studidb-login.conf!
 
 ![blanked example image](https://github.com/qw3rtz3r/studiDB-grades-terminal/blob/main/blanked-example.png?raw=true)
