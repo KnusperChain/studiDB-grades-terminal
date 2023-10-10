@@ -1,5 +1,6 @@
 # studiDB-grades-terminal
-This repo contains python code to show all grades in StudiDB in your terminal.
+This repo contains python code to show all grades from StudiDB in your terminal.
+StudiDB is an exam and module management system for students used by a German university.
 
 Additionally you have to install some packages with pip:
 ```
